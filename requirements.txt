@@ -25,7 +25,7 @@ mathparse==0.1.2
 msgpack==0.6.2
 murmurhash==1.0.2
 nltk==3.5
-numpy==1.18.5
+numpy==1.22.0
 packaging==20.3
 pep517==0.8.2
 Pint==0.13
